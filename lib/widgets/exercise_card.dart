@@ -17,7 +17,7 @@ class ExerciseCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      width: 220,
+      width: 210,
       height: 86,
       decoration: ShapeDecoration(
         color: Colors.white,
