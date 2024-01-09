@@ -37,6 +37,12 @@ class BestForYou extends StatelessWidget {
                       imageUrl: "assets/images/lose_fat.png",
                       duration: "10 min",
                       difficulty: "Beginner"),
+                  SizedBox(width: 16,),
+                  ExerciseCard(
+                      title: "Lose Fat",
+                      imageUrl: "assets/images/lose_fat.png",
+                      duration: "10 min",
+                      difficulty: "Beginner"),
                 ],
               ),
               SizedBox(height: 10,),
@@ -53,8 +59,15 @@ class BestForYou extends StatelessWidget {
                       imageUrl: "assets/images/belly_fat.png",
                       duration: "30 min",
                       difficulty: "Intermediate"),
+                  SizedBox(width: 16,),
+                  ExerciseCard(
+                      title: "Build Whider",
+                      imageUrl: "assets/images/belly_fat.png",
+                      duration: "30 min",
+                      difficulty: "Intermediate"),
                 ],
               ),
+
             ],
           ),
         ),

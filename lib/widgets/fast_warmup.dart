@@ -37,6 +37,12 @@ class FastWarmup extends StatelessWidget {
                       imageUrl: "assets/images/backward_lunges.png",
                       duration: "5 min",
                       difficulty: "Beginner"),
+                  SizedBox(width: 16,),
+                  ExerciseCard(
+                      title: "Backward lunges",
+                      imageUrl: "assets/images/backward_lunges.png",
+                      duration: "5 min",
+                      difficulty: "Beginner"),
                 ],
               ),
             ],

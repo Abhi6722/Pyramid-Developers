@@ -25,10 +25,14 @@ class HomeScreen extends StatelessWidget {
               Challenges(),
               SizedBox(height: 30,),
               FastWarmup(),
-              HomeNavigationBar(),
+              SizedBox(height: 30,),
             ],
           ),
         ),
+      ),
+      bottomNavigationBar: Padding(
+        padding: EdgeInsets.symmetric(vertical: 10.0, horizontal: 18),
+        child: HomeNavigationBar(),
       ),
     );
   }
