@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:pyramid_developers/widgets/best_for_you.dart';
+import 'package:pyramid_developers/widgets/challenge.dart';
 import 'package:pyramid_developers/widgets/home_screen_banner.dart';
 
 class HomeScreen extends StatelessWidget {
@@ -17,6 +18,8 @@ class HomeScreen extends StatelessWidget {
             HomeScreenBanner(),
             SizedBox(height: 24,),
             BestForYou(),
+            SizedBox(height: 30,),
+            Challenges(),
           ],
         ),
       ),
