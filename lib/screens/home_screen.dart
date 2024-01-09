@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:pyramid_developers/widgets/best_for_you.dart';
 import 'package:pyramid_developers/widgets/challenge.dart';
 import 'package:pyramid_developers/widgets/fast_warmup.dart';
+import 'package:pyramid_developers/widgets/home_navigation_bar.dart';
 import 'package:pyramid_developers/widgets/home_screen_banner.dart';
 
 class HomeScreen extends StatelessWidget {
@@ -24,6 +25,7 @@ class HomeScreen extends StatelessWidget {
               Challenges(),
               SizedBox(height: 30,),
               FastWarmup(),
+              HomeNavigationBar(),
             ],
           ),
         ),
