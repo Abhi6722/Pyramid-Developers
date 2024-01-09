@@ -1,16 +1,11 @@
-# pyramid_developers
+# Pyramid Developers
 
 A Flutter Application built as part of assignment of the Pyramid Developer for the Flutter Developer role
 
-## Getting Started
+## Project Screenshot
 
-This project is a starting point for a Flutter application.
+Please find the screenshots of the application
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/Abhi6722/Pyramid-Developers/assets/62201123/2a2554cb-68e3-483f-adca-eaa253e52eef" width="300" />
+<img src="https://github.com/Abhi6722/Pyramid-Developers/assets/62201123/302e36a8-8350-45f5-b497-d978846582d2" width="300" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
